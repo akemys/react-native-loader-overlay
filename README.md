@@ -1,4 +1,6 @@
 # react-native-loader-overlay
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/duyluonglc/react-native-loader-overlay.svg)](https://greenkeeper.io/)
 This package using the react-native-loader and show the loading on the modal
 
 ![Demo](https://raw.githubusercontent.com/duyluonglc/react-native-loader-overlay/master/loading.gif)
