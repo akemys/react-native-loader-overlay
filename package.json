@@ -1,0 +1,35 @@
+{
+  "name": "react-native-loader-overlay",
+  "version": "1.0.0",
+  "description": "This package using the react-native-loader and show the loading on the modal",
+  "main": "Loading.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyluonglc/react-native-loader-overlay.git"
+  },
+  "keywords": [
+    "loading",
+    "loader",
+    "animate",
+    "modal",
+    "overlay"
+  ],
+  "author": "DL",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-loader":"^1.2.1",
+    "react-native-root-siblings":"^3.0.0"
+  },
+  "peerDependencies": {
+    "react-native":"^0.50.0",
+    "react":"^16.0.0",
+    "prop-types": "^15.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/duyluonglc/react-native-loader-overlay/issues"
+  },
+  "homepage": "https://github.com/duyluonglc/react-native-loader-overlay#readme"
+}
