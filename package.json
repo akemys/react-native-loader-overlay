@@ -1,6 +1,6 @@
 {
   "name": "react-native-loader-overlay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package using the react-native-loader and show the loading on the modal",
   "main": "Loading.js",
   "scripts": {
@@ -24,9 +24,9 @@
     "react-native-root-siblings": "^3.0.0"
   },
   "peerDependencies": {
-    "react-native": "^0.50.0",
-    "react": "^16.0.0",
-    "prop-types": "^15.6.0"
+    "react-native": "*",
+    "react": "*",
+    "prop-types": "*"
   },
   "bugs": {
     "url": "https://github.com/duyluonglc/react-native-loader-overlay/issues"
